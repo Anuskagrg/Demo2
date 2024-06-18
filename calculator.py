@@ -20,7 +20,9 @@ print power_numbers(input1,input2)
 
 
 #Subtract two numbers
-
+#Subtract two numbers
+def subtract_numbers(input1, input2):
+    return input1 - input2
 
 #Multiply two numbers
 
